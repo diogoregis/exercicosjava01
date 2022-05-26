@@ -2,7 +2,7 @@
 
 
 
-Esse repositório trás listas de exercícios Java.
+Esse repositório traz listas de exercícios Java.
 
 *Os exercícios são propostos e resolvidos de maneira didática.*
 
